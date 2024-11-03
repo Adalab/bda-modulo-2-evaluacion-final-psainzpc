@@ -21,8 +21,10 @@ poner en práctica las diferentes funciones aprendidas para la gestión de las B
 - Dominar el uso de las queries básicas
 - Dominar las funciones agregadas y consultas avanzadas para obtener informacion especifica.
 - Dominar el uso de _joins_ para combinar consultas de datos.
-- Dominar el uso de suconsultas.
 - Demostrar habilidades en el uso de Operadores especiales.
+- Dominar el uso de suconsultas.
+- Dominar el uso de las subconsultas correlacionadas y CTE's
+
 
 ## Requisitos
 
